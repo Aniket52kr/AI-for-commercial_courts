@@ -16,7 +16,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 3px;
     background: #b99671;
     color: #fff;
     position: sticky;
@@ -24,11 +24,21 @@ header {
     z-index: 1000;
     width: 100%;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    height: 40px;
 }
 
 header .logo {
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+header .logo img {
+    height: 50px;
+    width: 50px; 
+    margin: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: transparent;
 }
 
 header nav ul {
@@ -39,20 +49,21 @@ header nav ul {
 }
 
 header nav ul li {
-    margin: 2px 10px;
+    margin: 0px 10px;
 }
 
 header nav ul li a {
     color: #fff;
     text-decoration: none;
-    padding: 4px 50px;
+    padding: 4px 20px;
     border-radius: 5px;
     transition: background-color 0.3s ease;
 }
 
 header nav ul li a:hover {
-    background-color: black; 
+    background-color: black;
 }
+
 
 /* Response Section */
 .container {

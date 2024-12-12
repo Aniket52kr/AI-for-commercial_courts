@@ -4,44 +4,40 @@
             "Filter by AI Tags",
             [
                 {
-                    "value": "contract",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:contract"
+                    "value": "law-governing-evidence",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:law-governing-evidence"
                 },
                 {
-                    "value": "equality-before-law",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:equality-before-law"
+                    "value": "criminal-procedure-code",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:criminal-procedure-code"
                 },
                 {
-                    "value": "legal-and-illegal-considerations-and-objects",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:legal-and-illegal-considerations-and-objects"
+                    "value": "presumption-for-gazettes-news-acts-and-documents",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:presumption-for-gazettes-news-acts-and-documents"
                 },
                 {
-                    "value": "time-for-performance-of-promise",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:time-for-performance-of-promise"
+                    "value": "parliament-language",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:parliament-language"
                 },
                 {
-                    "value": "income-tax",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:income-tax"
+                    "value": "order-enforcement",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:order-enforcement"
                 },
                 {
-                    "value": "legal-stay",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:legal-stay"
+                    "value": "limitation",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:limitation"
                 },
                 {
-                    "value": "protection-of-life-and-liberty",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:protection-of-life-and-liberty"
+                    "value": "procedure-land-dispute",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:procedure-land-dispute"
                 },
                 {
-                    "value": "appeal-high-court < writ-petition-high-court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:appeal-high-court < writ-petition-high-court"
+                    "value": "admission-defined",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:admission-defined"
                 },
                 {
-                    "value": "application-for-setting-aside-arbitral-award",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:application-for-setting-aside-arbitral-award"
-                },
-                {
-                    "value": "special-relief-law",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+tag:special-relief-law"
+                    "value": "admission-by-interested-parties-to-proceeding",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+tag:admission-by-interested-parties-to-proceeding"
                 }
             ]
         ],
@@ -49,44 +45,44 @@
             "Related Queries",
             [
                 {
-                    "value": "indian contract act",
-                    "formInput": "indian%20contract%20act"
+                    "value": "estoppel",
+                    "formInput": "estoppel"
                 },
                 {
-                    "value": "public policy",
-                    "formInput": "public%20policy"
+                    "value": "cause of action",
+                    "formInput": "cause%20of%20action"
                 },
                 {
-                    "value": "contract act",
-                    "formInput": "contract%20act"
+                    "value": "religion",
+                    "formInput": "religion"
                 },
                 {
-                    "value": "agreement of sale",
-                    "formInput": "agreement%20of%20sale"
+                    "value": "permanent injunction",
+                    "formInput": "permanent%20injunction"
                 },
                 {
-                    "value": "privy council",
-                    "formInput": "privy%20council"
+                    "value": "res judicata ",
+                    "formInput": "res%20judicata%20"
                 },
                 {
-                    "value": "opposed to public policy",
-                    "formInput": "opposed%20to%20public%20policy"
+                    "value": "waqf",
+                    "formInput": "waqf"
                 },
                 {
-                    "value": "indian contract act 1872",
-                    "formInput": "indian%20contract%20act%201872"
+                    "value": "deity",
+                    "formInput": "deity"
                 },
                 {
-                    "value": "ultra vires ",
-                    "formInput": "ultra%20vires%20"
+                    "value": "muslim",
+                    "formInput": "muslim"
                 },
                 {
-                    "value": "specific performance",
-                    "formInput": "specific%20performance"
+                    "value": "demolition",
+                    "formInput": "demolition"
                 },
                 {
-                    "value": "rule of law",
-                    "formInput": "rule%20of%20law"
+                    "value": "declaration suit",
+                    "formInput": "declaration%20suit"
                 }
             ]
         ],
@@ -95,24 +91,24 @@
             [
                 {
                     "value": "All",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi",
                     "selected": true
                 },
                 {
                     "value": "Laws",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:laws"
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+doctypes:laws"
                 },
                 {
                     "value": "Judgments",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:judgments"
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+doctypes:judgments"
                 },
                 {
                     "value": "Tribunals",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:tribunals"
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+doctypes:tribunals"
                 },
                 {
                     "value": "Highcourts & Supremecourt",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:supremecourt,scorders,highcourts"
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+doctypes:supremecourt,scorders,highcourts"
                 }
             ]
         ],
@@ -120,79 +116,14 @@
             "Courts and Laws",
             [
                 {
-                    "value": "Supreme Court of India",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:supremecourt",
-                    "selected": false
-                },
-                {
-                    "value": "Delhi High Court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:delhi",
-                    "selected": false
-                },
-                {
-                    "value": "Bombay High Court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:bombay",
-                    "selected": false
-                },
-                {
-                    "value": "Madras High Court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:chennai",
-                    "selected": false
-                },
-                {
-                    "value": "Punjab-Haryana High Court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:punjab",
-                    "selected": false
-                },
-                {
-                    "value": "Andhra High Court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:andhra",
-                    "selected": false
-                },
-                {
                     "value": "Allahabad High Court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:allahabad",
-                    "selected": false
-                },
-                {
-                    "value": "Appellate Tribunal For Electricity",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:aptel",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+doctypes:allahabad",
                     "selected": false
                 },
                 {
                     "value": "Delhi District Court",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:delhidc",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+doctypes:delhidc",
                     "selected": false
-                },
-                {
-                    "value": "Competition Commission of India",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+doctypes:cci",
-                    "selected": false
-                }
-            ]
-        ],
-        [
-            "Authors",
-            [
-                {
-                    "value": "Pratibha M Singh",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+authorid:p-m-singh"
-                },
-                {
-                    "value": "V D Tulzapurkar",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+authorid:v-d-tulzapurkar"
-                },
-                {
-                    "value": "C Hari Shankar",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+authorid:c-h-shankar"
-                },
-                {
-                    "value": "Shripathi Ravindra Bhat",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+authorid:s-r-bhat"
-                },
-                {
-                    "value": "Chandra Dhari Singh",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+authorid:c-d-singh"
                 }
             ]
         ],
@@ -200,44 +131,12 @@
             "Bench",
             [
                 {
-                    "value": "Pratibha M Singh",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:p-m-singh"
+                    "value": "Sudhir Agarwal",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+benchid:s-agarwal"
                 },
                 {
-                    "value": "Gopendra Krishna Mitter",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:g-k-mitter"
-                },
-                {
-                    "value": "Vineet Saran",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:v-saran"
-                },
-                {
-                    "value": "V D Tulzapurkar",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:v-d-tulzapurkar"
-                },
-                {
-                    "value": "C Hari Shankar",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:c-h-shankar"
-                },
-                {
-                    "value": "Ashok Bhushan",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:a-bhushan"
-                },
-                {
-                    "value": "Vipin Sinha",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:v-sinha"
-                },
-                {
-                    "value": "Shripathi Ravindra Bhat",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:s-r-bhat"
-                },
-                {
-                    "value": "Chandra Dhari Singh",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:c-d-singh"
-                },
-                {
-                    "value": "Sabyasachi Mukharji",
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+benchid:s-mukharji"
+                    "value": "Kaushal Thaker",
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+benchid:k-thaker"
                 }
             ]
         ],
@@ -245,254 +144,25 @@
             "Years",
             [
                 {
-                    "value": 2019,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2019+todate:31-12-2019"
+                    "value": 1800,
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+fromdate:1-1-1800+todate:31-12-1800"
                 },
                 {
-                    "value": 2018,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2018+todate:31-12-2018"
+                    "value": 2017,
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+fromdate:1-1-2017+todate:31-12-2017"
                 },
                 {
-                    "value": 2013,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2013+todate:31-12-2013"
-                },
-                {
-                    "value": 2020,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2020+todate:31-12-2020"
-                },
-                {
-                    "value": 2014,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2014+todate:31-12-2014"
-                },
-                {
-                    "value": 1996,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-1996+todate:31-12-1996"
-                },
-                {
-                    "value": 2000,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2000+todate:31-12-2000"
+                    "value": 1995,
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+fromdate:1-1-1995+todate:31-12-1995"
                 },
                 {
                     "value": 2023,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2023+todate:31-12-2023"
-                },
-                {
-                    "value": 1956,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-1956+todate:31-12-1956"
-                },
-                {
-                    "value": 2010,
-                    "formInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F+fromdate:1-1-2010+todate:31-12-2010"
+                    "formInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi+fromdate:1-1-2023+todate:31-12-2023"
                 }
             ]
         ]
     ],
-    "docs": [
-        {
-            "tid": 1597776,
-            "catids": [
-                135,
-                49
-            ],
-            "doctype": 1000,
-            "publishdate": "2006-05-09",
-            "authorid": 1882,
-            "bench": [
-                1882
-            ],
-            "title": "M/S. Centrotrade Minerals & Metal. Inc vs Hindustan Copper Ltd on 9 May, 2006",
-            "numcites": 97,
-            "numcitedby": 91,
-            "headline": "<b>definition</b> of &#x27;Foreign \nAward&#x27; contained in  Section 44  would apply notwithstanding the proper <b>law</b> \nof the <b>contract</b> being <b>Indian</b> <b>Law</b>.  \n \n\n SUBMISSIONS ... fact that the <b>Indian</b> <b>law</b> \nwas applicable in relation to the <b>contract</b> in question.  \n \n (ii) \t<b>Indian</b> <b>law</b> in relation to enforcement of the terms",
-            "docsize": 103157,
-            "fragment": true,
-            "docsource": "Supreme Court of India",
-            "author": "S B Sinha",
-            "authorEncoded": "s-b-sinha"
-        },
-        {
-            "tid": 320742,
-            "catids": [
-                1504,
-                179,
-                1463,
-                1505,
-                1647
-            ],
-            "doctype": 1004,
-            "publishdate": "1936-03-11",
-            "authorid": null,
-            "bench": null,
-            "title": "The National Petroleum Company Ltd. vs Popatlal Mulji on 11 March, 1936",
-            "numcites": 14,
-            "numcitedby": 15,
-            "headline": "into <b>a</b> <b>contract</b> under which <b>A</b> agrees to indemnify B against all his debts, <b>a</b> creditor of B can sue <b>A</b> on the <b>contract</b> ... true that the <b>definition</b> of &#x27; consideration&#x27; in  Section 2  of the <b>Indian</b> <b>Contract</b> Act gives <b>a</b> wider meaning to that term than",
-            "docsize": 48292,
-            "fragment": true,
-            "docsource": "Bombay High Court",
-            "citation": "(1936)38BOMLR610"
-        },
-        {
-            "tid": 625730,
-            "catids": null,
-            "doctype": 1000,
-            "publishdate": "1996-07-06",
-            "authorid": 2190,
-            "bench": [
-                2190,
-                2196
-            ],
-            "title": "Sasa Musa Sugar Works Etc. Etc vs State Of Bihar And Others Etc. Etc on 6 July, 1996",
-            "numcites": 60,
-            "numcitedby": 22,
-            "headline": " Sasa Musa Sugar Works Etc. Etc vs State Of Bihar And Others Etc. Etc on",
-            "docsize": 175197,
-            "fragment": true,
-            "docsource": "Supreme Court of India",
-            "author": "G N Ray",
-            "authorEncoded": "g-n-ray"
-        },
-        {
-            "tid": 137819821,
-            "catids": null,
-            "doctype": 97,
-            "publishdate": "1984-07-05",
-            "authorid": null,
-            "bench": null,
-            "title": "The Bharathiar University Statutes",
-            "numcites": 0,
-            "numcitedby": 19,
-            "headline": " The Bharathiar University Statutes \n\n     \n  \n\n  \n     \n      TAMILNADU \n      India\n     \n  \n\n  \n    \n  \n\n  \n     The Bharathiar University Statutes \n  \n\n  \n    \n      \n         Rule THE-BHARATHIAR-UNIVERSITY-STATUTES",
-            "docsize": 526158,
-            "fragment": false,
-            "covers": [],
-            "docsource": "State of  Tamilnadu- Act"
-        },
-        {
-            "tid": 131288752,
-            "catids": [
-                583,
-                1484
-            ],
-            "doctype": 1017,
-            "publishdate": "2019-04-12",
-            "authorid": 828,
-            "bench": [
-                828
-            ],
-            "title": "Hasvantbhai Chhanubhai Dalal vs Adesinh Mansinh Raval on 12 April, 2019",
-            "numcites": 125,
-            "numcitedby": 7,
-            "headline": " Hasvantbhai Chhanubhai Dalal vs Adesinh Mansinh Raval on 12 April, 2019 \n\n Equivalent citations: AIRONLINE 2019",
-            "docsize": 283171,
-            "fragment": true,
-            "docsource": "Gujarat High Court",
-            "author": "J B Pardiwala",
-            "authorEncoded": "j-b-pardiwala",
-            "citation": "AIRONLINE 2019 GUJ 44"
-        },
-        {
-            "tid": 1276078,
-            "catids": [
-                44
-            ],
-            "doctype": 1002,
-            "publishdate": "1996-02-09",
-            "authorid": 2116,
-            "bench": [
-                2116,
-                663
-            ],
-            "title": "Anil Kumar Khurana vs Union Of India And Ors. on 9 February, 1996",
-            "numcites": 123,
-            "numcitedby": 8,
-            "headline": " Anil Kumar Khurana vs Union Of India And Ors. on 9 February, 1996 \n\n Equivalent citations",
-            "docsize": 244034,
-            "fragment": true,
-            "docsource": "Delhi High Court",
-            "author": "Y K Sabharwal",
-            "authorEncoded": "y-k-sabharwal",
-            "citation": "62(1996)DLT313"
-        },
-        {
-            "tid": 902820,
-            "catids": [
-                1484,
-                14
-            ],
-            "doctype": 1025,
-            "publishdate": "1987-01-09",
-            "authorid": null,
-            "bench": null,
-            "title": "Motilal Chunnilal vs Commissioner Of Income-Tax on 9 January, 1987",
-            "numcites": 93,
-            "numcitedby": 7,
-            "headline": " Motilal Chunnilal vs Commissioner Of Income-Tax on 9 January, 1987 \n\n Equivalent citations: 1987(2",
-            "docsize": 180630,
-            "fragment": true,
-            "docsource": "Rajasthan High Court",
-            "citation": "1987(2)WLN126"
-        },
-        {
-            "tid": 445405,
-            "catids": [
-                179,
-                585
-            ],
-            "doctype": 1007,
-            "publishdate": "1913-11-13",
-            "authorid": null,
-            "bench": null,
-            "title": "<b>A</b>.R. Iswaram Pillai vs S. Taregan And Ors. on 13 November, 1913",
-            "numcites": 7,
-            "numcitedby": 8,
-            "headline": "<b>Indian</b> <b>Contract</b> Act .  Section 2(d)  &quot; we have <b>a</b> <b>definition</b> of consideration, which is wider than the requirement of English <b>law</b> (2) Sir Lawrence ... unless the <b>contract</b> has been partly or fully performed, so that <b>a</b> trust has been already created, <b>a</b> suit on <b>a</b> <b>contract</b> has, under circumstances",
-            "docsize": 26985,
-            "fragment": true,
-            "docsource": "Madras High Court",
-            "citation": "(1914)26MLJ127"
-        },
-        {
-            "tid": 421412,
-            "catids": null,
-            "doctype": 1024,
-            "publishdate": "2000-11-10",
-            "authorid": 1570,
-            "bench": [
-                1570
-            ],
-            "title": "Hari Singh Nalwa vs Kartar Singh Bhadana on 10 November, 2000",
-            "numcites": 27,
-            "numcitedby": 5,
-            "headline": " Hari Singh Nalwa vs Kartar Singh Bhadana on 10 November, 2000 \n\n Equivalent citations: AIR2001P&H86",
-            "docsize": 63270,
-            "fragment": true,
-            "docsource": "Punjab-Haryana High Court",
-            "author": "A S Garg",
-            "authorEncoded": "a-s-garg",
-            "citation": "AIR2001P&H86"
-        },
-        {
-            "tid": 1201459,
-            "catids": [
-                1463,
-                1523,
-                179
-            ],
-            "doctype": 1024,
-            "publishdate": "1956-10-17",
-            "authorid": null,
-            "bench": null,
-            "title": "Babu Ram Budhu Mal And Ors. vs Dhan Singh Bishan Singh And Ors. on 17 October, 1956",
-            "numcites": 17,
-            "numcitedby": 6,
-            "headline": "<b>Indian</b> <b>Contract</b> Act  which prevented the recognition of <b>a</b> right in <b>a</b> third party to enforce <b>a</b> <b>contract</b>\nmade by others, which contained <b>a</b> provision ... Section 2 , <b>Contract</b> Act, widens the <b>definition</b> of &#x27;consideration&#x27; so as to enable <b>a</b> party to <b>a</b> <b>contract</b> to enforce the same",
-            "docsize": 27112,
-            "fragment": true,
-            "docsource": "Punjab-Haryana High Court",
-            "citation": "AIR1957P&H169"
-        }
-    ],
-    "found": "11 - 20 of 30941",
-    "encodedformInput": "What%20is%20the%20definition%20of%20a%20contract%20in%20Indian%20law%3F"
+    "docs": [],
+    "found": "No matching results",
+    "encodedformInput": "contract%20in%20indian%20law%20ki%20definition%20ky%20hai%20in%20hindi"
 }
